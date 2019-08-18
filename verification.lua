@@ -23,7 +23,7 @@ print("THE IMEI IS INVALID SORRY LOL")
 os.exit()
 else
 print("OK THE IMEI CHECK PASSED")
---YOUR PEICE
+--YOUR PIECE
 end
 
 
