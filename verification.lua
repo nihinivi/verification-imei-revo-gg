@@ -1,13 +1,13 @@
---MADE BY NIHINIVI (seems like this is going to be MDE BY {insertyourname} lol do whatever please leave abit of credits (0w0)
+--MADE BY NIHINIVI (seems like this is going to be MADE BY {insertyourname} lol do whatever please leave a bit of credits (0w0)
 
 
 
-lul = "1234567890"  --put your imei here
+lul = "1234567890"  --put the imei here
 table = revo.getPhoneInfo()
 function Tut(t, i)
     local text = "'"       
     for k,v in pairs(t) do   
-            text = text .. "'" .. k .. "' ==> "    
+            text = text .. "'" .. k .. "' ==> "   
             text = text .. v .. "\n\n\n"       
     end
     return text
