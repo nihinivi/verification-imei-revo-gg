@@ -1,4 +1,4 @@
---MADE BY NIHINIVI (seems like this is going to be MADE BY {insertyourname} lol do whatever please leave a bit of credits (0w0)
+--MADE BY NIHINIVI[seems like this is going to be MADE BY {insertyourname} lol do whatever please leave a bit of credits (0w0)]
 
 
 
